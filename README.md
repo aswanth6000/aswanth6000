@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanth6000&label=Profile%20views&color=0e75b6&style=flat" alt="aswanth6000" /> </p>
 
 
-<p align="center"> 🔭 I’m currently working on **MERN Stack** </p>
+<p align="center"> 🔭 I’m currently working on MERN Stack </p>
 
-<p align="center"> 🌱 I’m currently learning **Next.Js** </p>
+<p align="center"> 🌱 I’m currently learning Next.Js </p>
 
-<p align="center"> 👨‍💻 All of my projects are available at [https://rainbow-peony-088c1e.netlify.app/](https://rainbow-peony-088c1e.netlify.app/) </p>
+<p align="center"> 👨‍💻 All of my projects are available at <a href="https://rainbow-peony-088c1e.netlify.app/](https://rainbow-peony-088c1e.netlify.app/)">Here</a> </p>
 
-<p align="center"> 📫 How to reach me **aswanth682@gmail.com**</p>
+<p align="center"> 📫 How to reach me aswanth682@gmail.com</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
