@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanth6000&label=Profile%20views&color=0e75b6&style=flat" alt="aswanth6000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aswanth6000" alt="aswanth6000" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+<p align="center"> 🔭 I’m currently working on **MERN Stack** </p>
 
-- 🌱 I’m currently learning **React.Js**
+<p align="center"> 🌱 I’m currently learning **Next.Js** </p>
 
-- 👨‍💻 All of my projects are available at [https://rainbow-peony-088c1e.netlify.app/](https://rainbow-peony-088c1e.netlify.app/)
+<p align="center"> 👨‍💻 All of my projects are available at [https://rainbow-peony-088c1e.netlify.app/](https://rainbow-peony-088c1e.netlify.app/) </p>
 
-- 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
-
-- 📫 How to reach me **aswanth682@gmail.com**
+<p align="center"> 📫 How to reach me **aswanth682@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
