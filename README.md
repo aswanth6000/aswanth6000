@@ -30,7 +30,7 @@
 
 <div align="center">
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswanth6000&" alt="aswanth6000" /></p>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=aswanth6000&theme=gruvbox&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
     
 </div>
 
