@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswanth6000&label=Profile%20views&color=0e75b6&style=flat" alt="aswanth6000" /> </p>
 <h1 align="left">Hi 👋, I'm Aswanth Alakkadan</h1>
 <h3 align="left">MERN / Full Stack NodeJS developer</h3>
-<div align="left">
+<div align="left"> 
 
 - 🌱 I’m currently learning - Next JS | Microservice | Clean Architecture
 - 📫 How to reach me - **aswanth682@gmail.com**
