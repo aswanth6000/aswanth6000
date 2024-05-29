@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - Next JS | Microservice | Clean Architecture
 - 📫 How to reach me - **aswanth682@gmail.com**
 - 📝 I write articles on - [Medium](https://medium.com/@aswanth6000)
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1TAkjvxYKXvf4M7H7Obi_fkLokuA1RARs/view?usp=sharing)
+- 📄 Know about my experiences - [Resume]([https://drive.google.com/file/d/1TAkjvxYKXvf4M7H7Obi_fkLokuA1RARs/view?usp=sharing](https://drive.google.com/file/d/1rKIRKJlk11VMmtgrOAiQc88Jn1ITJA1L/view?usp=sharing))
 
 </div>
 <h1 align="left"></h1>
